@@ -1,5 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE)</title><link href="https://cpb.kmol.info/40623234/doc/trunk/blog/" rel="alternate"></link><link href="https://cpb.kmol.info/40623234/doc/trunk/blog/feeds/all.atom.xml" rel="self"></link><id>https://cpb.kmol.info/40623234/doc/trunk/blog/</id><updated>2017-11-20T11:00:00+08:00</updated><entry><title>第十一週</title><link href="https://cpb.kmol.info/40623234/doc/trunk/blog/40623234_2017-fall-cadp-w11.html" rel="alternate"></link><published>2017-11-20T11:00:00+08:00</published><updated>2017-11-20T11:00:00+08:00</updated><author><name>40623234</name></author><id>tag:cpb.kmol.info,2017-11-20:/40623234/doc/trunk/blog/40623234_2017-fall-cadp-w11.html</id><summary type="html">&lt;p&gt;W11&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE)</title><link href="https://cpb.kmol.info/40623234/doc/trunk/blog/" rel="alternate"></link><link href="https://cpb.kmol.info/40623234/doc/trunk/blog/feeds/all.atom.xml" rel="self"></link><id>https://cpb.kmol.info/40623234/doc/trunk/blog/</id><updated>2017-11-26T11:00:00+08:00</updated><entry><title>第十八週</title><link href="https://cpb.kmol.info/40623234/doc/trunk/blog/40623234_2017-fall-cadp-w18.html" rel="alternate"></link><published>2017-11-26T11:00:00+08:00</published><updated>2017-11-26T11:00:00+08:00</updated><author><name>40623234</name></author><id>tag:cpb.kmol.info,2017-11-26:/40623234/doc/trunk/blog/40623234_2017-fall-cadp-w18.html</id><summary type="html">&lt;p&gt;W18&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W18&lt;/p&gt;
+
+
+&lt;h3&gt;操作影片&lt;/h3&gt;
+&lt;p&gt;https://vimeo.com/249988027&lt;/p&gt;
+&lt;h3&gt;學習心得&lt;/h3&gt;
+&lt;p&gt;github是一個很好的程式，能與其他人做協同，並在開發程式時能清楚了解過程
+，雖然github是個好程式，但他卻有些許功能尚未了解，如果能反覆練習，一定能
+發揮更大作用。&lt;/p&gt;
+&lt;h3&gt;自我評量&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;   1.每周出席情況:100 
+   2.筆記:50 
+   3.隨身碟內容:60
+   4.個人倉儲內容:50 
+   5.各周上課摘要:60 
+   6.自評分數:60
+&lt;/pre&gt;&lt;/div&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>第十六週</title><link href="https://cpb.kmol.info/40623234/doc/trunk/blog/40623234_2017-fall-cadp-w16.html" rel="alternate"></link><published>2017-11-25T11:00:00+08:00</published><updated>2017-11-25T11:00:00+08:00</updated><author><name>40623234</name></author><id>tag:cpb.kmol.info,2017-11-25:/40623234/doc/trunk/blog/40623234_2017-fall-cadp-w16.html</id><summary type="html">&lt;p&gt;W16&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W16&lt;/p&gt;
+
+
+&lt;h3&gt;用github與組員做協同，共同做計算機與報告&lt;/h3&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>第十五週</title><link href="https://cpb.kmol.info/40623234/doc/trunk/blog/40623234_2017-fall-cadp-w15.html" rel="alternate"></link><published>2017-11-24T11:00:00+08:00</published><updated>2017-11-24T11:00:00+08:00</updated><author><name>40623234</name></author><id>tag:cpb.kmol.info,2017-11-24:/40623234/doc/trunk/blog/40623234_2017-fall-cadp-w15.html</id><summary type="html">&lt;p&gt;W15&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W15&lt;/p&gt;
+
+
+&lt;h3&gt;做計算機乘除的程式，與了解他的程式如何寫&lt;/h3&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>第十四週</title><link href="https://cpb.kmol.info/40623234/doc/trunk/blog/40623234_2017-fall-cadp-w14.html" rel="alternate"></link><published>2017-11-23T11:00:00+08:00</published><updated>2017-11-23T11:00:00+08:00</updated><author><name>40623234</name></author><id>tag:cpb.kmol.info,2017-11-23:/40623234/doc/trunk/blog/40623234_2017-fall-cadp-w14.html</id><summary type="html">&lt;p&gt;W14&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W14&lt;/p&gt;
+
+
+&lt;h3&gt;用github做協同&lt;/h3&gt;
+&lt;h3&gt;學會用協同作近端的修改再推回github&lt;/h3&gt;
+&lt;h3&gt;git clone "網址"&lt;/h3&gt;
+&lt;h3&gt;git pull&lt;/h3&gt;
+&lt;h3&gt;git commit -m "add 某資料"&lt;/h3&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>第十三週</title><link href="https://cpb.kmol.info/40623234/doc/trunk/blog/40623234_2017-fall-cadp-w13.html" rel="alternate"></link><published>2017-11-22T11:00:00+08:00</published><updated>2017-11-22T11:00:00+08:00</updated><author><name>40623234</name></author><id>tag:cpb.kmol.info,2017-11-22:/40623234/doc/trunk/blog/40623234_2017-fall-cadp-w13.html</id><summary type="html">&lt;p&gt;W13&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W13&lt;/p&gt;
+
+
+&lt;h3&gt;讓eric6所設計的計算機能讓上面數字顯示&lt;/h3&gt;
+&lt;h3&gt;還能疊加外還能清除數字&lt;/h3&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>第十二週</title><link href="https://cpb.kmol.info/40623234/doc/trunk/blog/40623234_2017-fall-cadp-w12.html" rel="alternate"></link><published>2017-11-21T11:00:00+08:00</published><updated>2017-11-21T11:00:00+08:00</updated><author><name>40623234</name></author><id>tag:cpb.kmol.info,2017-11-21:/40623234/doc/trunk/blog/40623234_2017-fall-cadp-w12.html</id><summary type="html">&lt;p&gt;W12&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W12&lt;/p&gt;
+
+
+&lt;h3&gt;用eric6做計算機的數字按鍵&lt;/h3&gt;
+&lt;h3&gt;用github創造新倉儲，並把新造的倉儲clone下來&lt;/h3&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>第十一週</title><link href="https://cpb.kmol.info/40623234/doc/trunk/blog/40623234_2017-fall-cadp-w11.html" rel="alternate"></link><published>2017-11-20T11:00:00+08:00</published><updated>2017-11-20T11:00:00+08:00</updated><author><name>40623234</name></author><id>tag:cpb.kmol.info,2017-11-20:/40623234/doc/trunk/blog/40623234_2017-fall-cadp-w11.html</id><summary type="html">&lt;p&gt;W11&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W11&lt;/p&gt;
 
 
